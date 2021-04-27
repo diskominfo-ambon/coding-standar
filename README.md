@@ -2,7 +2,7 @@
 
 Repositori ini memberikan arahan untuk memberlakukan standarisasi bersama dalam melakukan pengembangan (aplikasi) dalam lingkup Diskominfo Ambon Maluku.
 
-> ``Catatan``: Panduan ini dibuat secara objektif bedasarkan penggunaan umum pratik baik yang biasa digunakan dalam pengembangan web (modern).
+> **Catatan**: Panduan ini dibuat secara objektif bedasarkan penggunaan umum pratik baik yang biasa digunakan dalam pengembangan web (modern).
 
 Berikut beberapa panduan standarisasi yang diberlakukan dalam setiap implementasi:
 1. [HTML](https://github.com/diskominfo-ambon/coding-standar/blob/main/html.md)
