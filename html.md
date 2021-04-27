@@ -31,6 +31,7 @@ Penggunaan Semantic HTML memberikan informasi yang lebih kaya bagi pengguna web 
 Contoh implementasi:
 
 ❌ Tidak disarankan
+
 Tidak memberikan informasi yang deskriptif, informasi yang digunakan merupakan tag `input` yang penggunaanya (umumnya) sebagai memberikan masukan pengguna ke dalam aplikasi browser.
 ```html
 <input type="button" value="Login ke aplikasi">
@@ -38,6 +39,7 @@ Tidak memberikan informasi yang deskriptif, informasi yang digunakan merupakan t
 
 
 ✅ Menggunakan HTML *Semantic*
+
 Terlihat jelas maksud dan informasi dari penggunaannya. 
 ```html
 <button type="button">
