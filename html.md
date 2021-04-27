@@ -13,14 +13,14 @@ Panduan ini mengasumsikan kamu sudah memahami secara baik **HTML** , dan menghar
  - `javascript`
  - `font`
  - `img` dan `picture` 
- - `anchor` (Navigasi link)
+ - `anchor`
  - `video`
  - `music`
  - `iframe`
  - `svg`
  - .... 
 
-## Pengatar HTML Semantic
+## Pengantar HTML Semantic
 *Semantic* HTML adalah penggunaan markup HTML untuk memperkuat makna dari  informasi halaman web, sebaliknya dari pada hanya untuk mendefinisikan presentasi atau tampilan yang umum.
 
 > Baca informasi lebih terkait [**HTML Semantic**](https://www.w3schools.com/html/html5_semantic_elements.asp).
