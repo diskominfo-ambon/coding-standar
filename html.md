@@ -4,7 +4,7 @@ Panduan ini mengasumsikan kamu sudah memahami secara baik **HTML** , dan menghar
 
 >**Catatan**: Perbaiki panduan ini untuk memberikan informasi atau pemahaman yang lebih baik.
 
-## Agenda
+## Daftar isi
 
  - [Pengantar HTML *Semantic*](#pengantar-html-semantic)
  - [Penggunaan HTML *Semantic*](#penggunaan-html-semantic)
