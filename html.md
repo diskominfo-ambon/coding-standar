@@ -78,6 +78,7 @@ Gunakan struktur lengkap HTML 5 untuk mengoptimalkan rendering web yang lebih ba
 
 
 😼 Bonus
+
 Gunakan tag `meta` *(jika perlu)* untuk memberikan informasi deskriptif bagi penggunaan dalam media sosial.
 
 Contoh untuk meningkatkan informasi web bagi media **Facebook**.
@@ -158,6 +159,7 @@ Pengunaan yang lebih baik dengan memisahkan setiap masalah (dalam hal ini dalam 
 
 
 😸 Bonus
+
 Terkadang mendapati kasus aplikasi yang menyimpan prefensi penggunanya ke dalam basis data dalam hal ini opsi Tema, yang memungkinkan pengguna untuk memilih tema yang akan mereka gunakan dalam aplikasi.
 
 Contoh implementasi sederhana aplikasi yang menyediakan beberapa Tema (mode terang 🌕 dan gelap 🌒).
@@ -262,6 +264,7 @@ Contoh kode `Javascript`.
 ```
 
 ✅ Lebih baik
+
 ```html
 <!-- Struktur HTML -->
 <body>
