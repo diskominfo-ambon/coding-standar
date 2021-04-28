@@ -319,9 +319,9 @@ Keuntungan dengan menggunakan pendekatan ini adalah untuk meningkatkan penggunaa
 ```
 
 ## Anchor
-Penggunaan navigasi yang baik dapat meningkatkan pengalaman pengguna yang lebih sehingga perlu diperhatikan pratik umum dalam menyediakan navigasi untuk halaman web.
+Penggunaan navigasi yang baik dapat meningkatkan pengalaman pengguna sehingga perlu diperhatikan pratik umum dalam menyediakan navigasi untuk halaman web.
 
-Jika dimungkinkan pengalihan ke sumber lain gunakan atribut `target="__blank"`.
+Umumnya jika dimungkinkan pengalihan ke sumber lain gunakan atribut `target="__blank"`.
 ```html
 <a href="https://google.com" target="__blank">Ke google yuk</a>
 ``` 
