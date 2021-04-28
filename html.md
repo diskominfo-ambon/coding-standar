@@ -303,7 +303,7 @@ Dalam menggunakan tag `img` alangkah baiknya juga menyertakan tag `alt`  untuk m
 
 Berbeda dengan tag `img` penggunaan tag `picture`  memberi pengembang web lebih banyak fleksibilitas dalam menentukan sumber daya gambar yang ingin dimuat. 
 
-Penggunaan paling umum dari tag `picture` adalah untuk menentukan sumber daya yang ingin dimuat dalam desain responsif seperti mobile, tablet, desktop, dsb.  Sebaliknya alih-alih memiliki satu gambar yang diperbesar atau diperkecil berdasarkan semua viewport (layar pengguna) browser akan mencari elemen `source` pertama di mana atribut `media` cocok dengan lebar viewport (layar pengguna) saat ini, dan kemudian akan menampilkan gambar yang sesuai (ditentukan dalam atribut srcset). tag `img` dalam `picture` diperlukan sebagai  sebagai opsi fallback jika tidak ada tag `source` yang cocok.
+Penggunaan tag `picture` adalah untuk menentukan sumber daya yang ingin dimuat dalam desain responsif seperti mobile, tablet, desktop, dsb.  Sebaliknya alih-alih memiliki satu gambar (seperti penggunaan sebelumnya) yang diperbesar atau diperkecil berdasarkan semua viewport (layar pengguna) browser akan mencari elemen `source` pertama di mana atribut `media` cocok dengan lebar viewport (layar pengguna) saat ini, dan kemudian akan menampilkan gambar yang sesuai (ditentukan dalam atribut srcset). tag `img` dalam `picture` diperlukan sebagai  sebagai opsi fallback jika tidak ada tag `source` yang cocok.
 
 Keuntungan dengan menggunakan pendekatan ini adalah untuk meningkatkan penggunaan pengguna yang lebih baik.
 
